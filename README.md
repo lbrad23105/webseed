@@ -4,4 +4,6 @@ This is achieved by using Raspberry Pi 3, moisture and temperature sensors.
 </br>
 ###Version 1.0
 ![Amaranth Logo](http://i.imgur.com/0L3HHMk.png?1)
+###Version 2.0
+![Bokchoy Logo](http://i.imgur.com/nkTo9Xt.png?1)
 
